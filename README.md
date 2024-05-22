@@ -5,14 +5,14 @@ Enhanced beta version of SpinDrops which includes an interactive learning enviro
 Download the binary for your operating system and follow the instructions below.
 ## Windows
 Run the installer file. Follow the onscreen instructions.
-## Mac
+## MacOS
 Open the image file. Drag and drop SpinDrops into your applications directory.
 ## Linux
 Save the binary in a directory of your choice. Install by running one of the following commands in a terminal inside your directory.
 ### Debian/Ubuntu/Mint
 `sudo dpkg -i SpinDropsLE.deb`
 ### RedHat/CentOS/Fedora
-`sudo rpm -ivh SpinDropsLE.rpm`<br>
+`sudo rpm -ivh SpinDropsLE.rpm`<br><br>
 You can add SpinDrops to path by running<br>
 `PATH=${PATH}:/opt/SpinDrops`
 
