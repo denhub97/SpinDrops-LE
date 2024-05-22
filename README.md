@@ -10,9 +10,9 @@ Open the image file *SpinDropsLE_2.1.0_beta31.dmg*. Drag and drop SpinDrops into
 ## Linux
 Save the binary (*SpinDropsLE_2.1.0_beta31.deb* or *SpinDropsLE_2.1.0_beta31.rpm* depending on your distribution) in a directory of your choice. Install by running one of the following commands in a terminal inside your directory.
 ### Debian/Ubuntu/Mint
-`sudo dpkg -i SpinDropsLE.deb`
+`sudo dpkg -i SpinDropsLE_2.1.0_beta31.deb`
 ### RedHat/CentOS/Fedora
-`sudo rpm -ivh SpinDropsLE.rpm`<br><br>
+`sudo rpm -ivh SpinDropsLE_2.1.0_beta31.rpm`<br><br>
 You can add SpinDrops to your system path by running<br>
 `PATH=${PATH}:/opt/SpinDrops`
 
