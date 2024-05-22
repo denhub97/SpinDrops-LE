@@ -1,7 +1,7 @@
 # SpinDrops-LE
 Enhanced beta version of SpinDrops which includes an interactive learning environment (for base software see https://spindrops.org/).
 
-# Installation
+# How to install SpinDrops
 Download the binary for your operating system and follow the instructions below.
 ## Windows
 Run the installer file. Follow the onscreen instructions.
@@ -13,10 +13,10 @@ Save the binary in a directory of your choice. Install by running one of the fol
 `sudo dpkg -i SpinDropsLE.deb`
 ### RedHat/CentOS/Fedora
 `sudo rpm -ivh SpinDropsLE.rpm`<br><br>
-You can add SpinDrops to path by running<br>
+You can add SpinDrops to your system path by running<br>
 `PATH=${PATH}:/opt/SpinDrops`
 
-# How to reference SpinDrops-LE
+# How to reference this version of SpinDrops
 You can reference SpinDrops in publications as you would reference a book.
 * Authors: Dennis Huber, Michael Tesch, Niklas J. Glaser, and Steffen J. Glaser
 * Title: SpinDrops
