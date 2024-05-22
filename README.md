@@ -24,3 +24,7 @@ You can reference SpinDrops in publications as you would reference a book.
 * Address: Garching, Germany
 * Date of publication: 2024
 * Retrieved from: https://github.com/denhub97/SpinDrops-LE
+
+<br><<br>
+
+![SpinDropsIcon](SpinDropsIcon.png)
