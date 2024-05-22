@@ -12,8 +12,8 @@ Save the binary in a directory of your choice. Install by running one of the fol
 ### Debian/Ubuntu/Mint
 `sudo dpkg -i SpinDropsLE.deb`
 ### RedHat/CentOS/Fedora
-`sudo rpm -ivh SpinDropsLE.rpm`
-You can add SpinDrops to path by running
+`sudo rpm -ivh SpinDropsLE.rpm`<br>
+You can add SpinDrops to path by running<br>
 `PATH=${PATH}:/opt/SpinDrops`
 
 # How to reference SpinDrops-LE
