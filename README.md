@@ -25,6 +25,6 @@ You can reference SpinDrops in publications as you would reference a book.
 * Date of publication: 2024
 * Retrieved from: https://github.com/denhub97/SpinDrops-LE
 
-<br><<br>
+<br><br>
 
-![SpinDropsIcon](SpinDropsIcon.png)
+<img src="SpinDropsIcon.png" width="100" height="100">
