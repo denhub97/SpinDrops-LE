@@ -27,4 +27,4 @@ You can reference SpinDrops in publications as you would reference a book.
 
 <br><br>
 
-<img src="SpinDropsIcon.png" width="100" height="100">
+<img src="SpinDropsIcon.png" style="display: block; float: none; margin-left: auto; margin-right: auto;" width="200" height="200">
