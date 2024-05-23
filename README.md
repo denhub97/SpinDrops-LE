@@ -6,7 +6,8 @@ Download the binary for your operating system in releases (right) and follow the
 ## Windows
 Run the installer file *SpinDropsLE_2.1.0_beta31.exe*. Follow the onscreen instructions.
 ## MacOS
-Open the image file *SpinDropsLE_2.1.0_beta31.dmg*. Drag and drop SpinDrops into your applications directory.
+Open the image file *SpinDropsLE_2.1.0_beta31.dmg*. Drag and drop SpinDrops into your applications directory.<br>
+If your MacOS prevents SpinDrops from opening after installation (due to this software not being distributed via the AppStore), you can still allow the software to run. Choose *System settings* in the *Apple menu*, click *Privacy & Security* and enable SpinDrops to be opened.
 ## Linux
 Save the binary (*SpinDropsLE_2.1.0_beta31.deb* or *SpinDropsLE_2.1.0_beta31.rpm* depending on your distribution) in a directory of your choice. Install by running one of the following commands in a terminal inside your directory.
 ### Debian/Ubuntu/Mint
