@@ -2,7 +2,7 @@
 Enhanced beta version of SpinDrops which includes an interactive learning environment (for base software see https://spindrops.org/).
 
 # How to install SpinDrops
-Download the binary for your operating system in releases (right) and follow the instructions below.
+Download the binary for your operating system in releases (right) and follow the instructions below. Versions of the software are available in English or German.
 ## Windows
 Run the installer file *SpinDropsLE_2.1.0_beta31.exe*. Follow the onscreen instructions.
 ## MacOS
