@@ -1,8 +1,8 @@
 # SpinDrops-LE
-Enhanced beta version of SpinDrops which includes an interactive learning environment (for base software see https://spindrops.org/).
+Enhanced beta version of SpinDrops which includes the SpinDrops Didactics Framework (SDDF) and an interactive learning environment (for base software see https://spindrops.org/).
 
 # How to install SpinDrops
-Download the binary for your operating system in releases (right) and follow the instructions below. Versions of the software are available in English or German.
+Download the binary for your operating system in Releases (right) and follow the instructions below. Versions of the software are available in English or German.
 ## Windows
 Run the installer file *SpinDropsLE_2.1.0_beta32.exe*. Follow the onscreen instructions.
 ## MacOS
@@ -16,6 +16,9 @@ Save the binary (*SpinDropsLE_2.1.0_beta32.deb* or *SpinDropsLE_2.1.0_beta32.rpm
 `sudo rpm -ivh SpinDropsLE_2.1.0_beta32.rpm`<br><br>
 You can add SpinDrops to your system path by running<br>
 `PATH=${PATH}:/opt/SpinDrops`
+
+# The SpinDrops Didactics Framework (SDDF)
+The SDDF is now included in the latest release version of SpinDrops. Go to the most recent release (SpinDropsLE 2.1.0-beta32) in _Releases_. Here, you can download SDDF template files, example exercises and a video series.
 
 # How to reference this version of SpinDrops
 You can reference SpinDrops in publications as you would reference a book.
