@@ -4,16 +4,16 @@ Enhanced beta version of SpinDrops which includes an interactive learning enviro
 # How to install SpinDrops
 Download the binary for your operating system in releases (right) and follow the instructions below. Versions of the software are available in English or German.
 ## Windows
-Run the installer file *SpinDropsLE_2.1.0_beta31.exe*. Follow the onscreen instructions.
+Run the installer file *SpinDropsLE_2.1.0_beta32.exe*. Follow the onscreen instructions.
 ## MacOS
-Open the image file *SpinDropsLE_2.1.0_beta31.dmg*. Drag and drop SpinDrops into your applications directory.<br>
+Open the image file *SpinDropsLE_2.1.0_beta32.dmg*. Drag and drop SpinDrops into your applications directory.<br>
 If your MacOS prevents SpinDrops from opening after installation (due to this software not being distributed via the AppStore), you can still allow the software to run. Choose *System settings* in the *Apple menu*, click *Privacy & Security* and enable SpinDrops to be opened.
 ## Linux
-Save the binary (*SpinDropsLE_2.1.0_beta31.deb* or *SpinDropsLE_2.1.0_beta31.rpm* depending on your distribution) in a directory of your choice. Install by running one of the following commands in a terminal inside your directory.
+Save the binary (*SpinDropsLE_2.1.0_beta32.deb* or *SpinDropsLE_2.1.0_beta32.rpm* depending on your distribution) in a directory of your choice. Install by running one of the following commands in a terminal inside your directory.
 ### Debian/Ubuntu/Mint
-`sudo dpkg -i SpinDropsLE_2.1.0_beta31.deb`
+`sudo dpkg -i SpinDropsLE_2.1.0_beta32.deb`
 ### RedHat/CentOS/Fedora
-`sudo rpm -ivh SpinDropsLE_2.1.0_beta31.rpm`<br><br>
+`sudo rpm -ivh SpinDropsLE_2.1.0_beta32.rpm`<br><br>
 You can add SpinDrops to your system path by running<br>
 `PATH=${PATH}:/opt/SpinDrops`
 
@@ -21,7 +21,7 @@ You can add SpinDrops to your system path by running<br>
 You can reference SpinDrops in publications as you would reference a book.
 * Authors: Dennis Huber, Michael Tesch, Niklas J. Glaser, and Steffen J. Glaser
 * Title: SpinDrops
-* Edition: 2.1.0-beta31
+* Edition: 2.1.0-beta32
 * Address: Garching, Germany
 * Date of publication: 2024
 * Retrieved from: https://github.com/denhub97/SpinDrops-LE
